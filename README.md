@@ -1,4 +1,4 @@
-# Altair Software - Credit Risk Analysis
+# Credit Risk Analysis - Altair
 
 This project focuses on **Credit Risk Analysis** using the **Altair** visualization library, based on the popular **Credit Risk dataset** from Kaggle. The primary objective is to assess the probability of a borrower defaulting on a loan, leveraging data analysis and visualization techniques.
 
